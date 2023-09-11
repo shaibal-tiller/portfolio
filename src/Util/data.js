@@ -14,11 +14,11 @@ import m_salad from '../images/portfolio/modals/m-salad.jpg'
 
 export const TITLE = ['FRONT-END DEVELOPER', 'Web DEVELOPER', 'React Developer', 'Ui/Ux Designer']
 export const SOCIALS = [
-    { name: 'facebook', icon: 'fa fa-facebook', link: 'link', color: '#ffffff' },
-    { name: 'behance', icon: 'fa fa-behance', link: 'link', color: '#ffffff' },
-    { name: 'twitter', icon: 'fa fa-twitter', link: 'link', color: '#ffffff' },
-    { name: 'dribbble', icon: 'fa fa-dribbble', link: 'link', color: '#ffffff' },
-    { name: 'instagram', icon: 'fa fa-instagram', link: 'link', color: '#ffffff' },]
+    { name: 'facebook', icon: 'fa fa-facebook', link: 'link', color: '#ffffff',namei:'185.36.144.205' },
+    { name: 'behance', icon: 'fa fa-behance', link: 'link', color: '#ffffff',namei:'80.144.227.5' },
+    { name: 'twitter', icon: 'fa fa-twitter', link: 'link', color: '#ffffff',namei:'164.49.12.224' },
+    { name: 'dribbble', icon: 'fa fa-dribbble', link: 'link', color: '#ffffff',namei:'159.96.220.12' },
+    { name: 'instagram', icon: 'fa fa-instagram', link: 'link', color: '#ffffff',namei:'139.65.180.47' },]
 
 export const INTRODUCTION = {
     title: 'about', main: 'Let me introduce myself.',
@@ -41,7 +41,7 @@ export const INTRODUCTION = {
         content: { HTML5: '90%', CSS3: '80%', JQUERY: '75%', 'React.js': '70%', Typescript: '95%', Tailwind:'80%', 'Node.js':'50%' }
     }
 
-}
+} 
 export const RESUME = {
     title: 'resume', main: 'More of my credentials.',
     description: 'Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.',
